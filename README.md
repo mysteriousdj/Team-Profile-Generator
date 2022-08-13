@@ -8,12 +8,16 @@ To create a team profile generator. This application asks a couple questions tha
 
 ## The Look
 
-[!look](/assets/html.png)
+![look](/assets/html.png)
 
 ## Tests
 
-[!tests](/assets/tests.gif)
+![tests](/assets/tests.gif)
 
 ## Demo
 
-[!Demo](/assets/demo.gif)
+![Demo](/assets/demo.gif)
+
+## Installation
+
+Project is uploaded to [Github](https://github.com/) at the following [repository.](https://github.com/mysteriousdj/Team-Profile-Generator)
